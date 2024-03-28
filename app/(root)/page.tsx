@@ -19,6 +19,7 @@ const SetupPage =()=>{
     return (
    <div className="p-4"> 
    <UserButton/>
+   <h1>hello</h1>
    
    </div>
     );
